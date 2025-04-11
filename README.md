@@ -30,7 +30,11 @@ A powerful and modern **React.js**-based cryptocurrency dashboard that allows us
 ---
 # 💹 Crypto Dashboard
 
-🔗 **Live Demo**: [Click here to visit the deployed site]((https://crypto-dashboard-lite.netlify.app/))
+
+🔗 **Live Demo**: [https://crypto-dashboard-lite.netlify.app](https://crypto-dashboard-lite.netlify.app)
+
+A powerful and modern **React.js**-based cryptocurrency dashboard that allows users to track real-time market data using the **CoinGecko API**. This web app is sleek, fast, responsive, and built with user experience in mind.
+
 
 
 
