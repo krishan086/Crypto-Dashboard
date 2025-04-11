@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    /* ... keep all other variables ... */
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    /* ... keep all other dark variables ... */
+  }
+}
+
+@layer utilities {
+  .border-border {
+    border-color: var(--border);
+  }
+  .bg-background {
+    background-color: hsl(var(--background));
+  }
+  .text-foreground {
+    color: hsl(var(--foreground));
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border; /* Now uses your custom border utility */
+  }
+  body {
+    @apply bg-background text-foreground; /* Now uses your custom utilities */
+  }
+}
