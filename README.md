@@ -28,6 +28,12 @@ A powerful and modern **React.js**-based cryptocurrency dashboard that allows us
 | **Axios**     | API handling and data fetching    |
 
 ---
+# 💹 Crypto Dashboard
+
+🔗 **Live Demo**: [Click here to visit the deployed site]((https://crypto-dashboard-lite.netlify.app/))
+
+
+
 
 ## 🧾 Installation
 
