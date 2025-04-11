@@ -1,12 +1,38 @@
-# React + Vite
+# 💹 Crypto Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A powerful and modern **React.js**-based cryptocurrency dashboard that allows users to track real-time market data using the **CoinGecko API**. This web app is sleek, fast, responsive, and built with user experience in mind.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+✅ **Real-Time Data**: Get live prices and market data from CoinGecko  
+✅ **Interactive UI**: Smooth animations and user-friendly design  
+✅ **Responsive Layout**: Mobile-friendly and adapts to all screen sizes  
+✅ **Search Functionality**: Easily search and filter through hundreds of coins  
+✅ **Sorting & Filtering**: View top gainers, losers, market caps, etc.  
+✅ **Charting**: View historical data in beautiful, interactive charts  
+✅ **Dark/Light Mode**: Toggle between modes to suit your style  
+✅ **Performance Optimized**: Fast loading and minimal API calls
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Built With
+
+| Technology   | Description                        |
+|--------------|------------------------------------|
+| **React.js** | Frontend framework for UI          |
+| **CoinGecko API** | Real-time cryptocurrency data    |
+| **Chart.js / Recharts** | For rendering beautiful graphs |
+| **CSS / Tailwind** | Styling and layout             |
+| **Axios**     | API handling and data fetching    |
+
+---
+
+## 🧾 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/krishan086/Crypto-Dashboard.git
+cd Crypto-Dashboard
